@@ -1,7 +1,7 @@
-# Tumble-POP(Space Edition) 👻
+# Tumble-POP (Space Edition) 👻
 **A 2D Arcade Platformer** — built with C++ and SFML
 
-Inspired by the classic arcade game, Tumble-POP(Space Edition) is a 2D platformer where you pilot a hero armed with a vacuum backpack across two sectors, capturing and shooting enemies to clear each stage. Features two playable characters, two active enemy types, slope physics, projectile combat, a combo scoring system, and full audio support.
+Inspired by the classic arcade game, Tumble-POP (Space Edition) is a 2D platformer where you pilot a hero armed with a vacuum backpack across two sectors, capturing and shooting enemies to clear each stage. Features two playable characters, two active enemy types, slope physics, projectile combat, a combo scoring system, and full audio support.
 
 ---
 
